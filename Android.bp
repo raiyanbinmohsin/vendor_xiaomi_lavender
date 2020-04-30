@@ -40,4 +40,3 @@ android_app_import {
 	},
 	soc_specific: true,
 }
-
